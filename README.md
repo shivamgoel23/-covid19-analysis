@@ -1,4 +1,5 @@
 🌎 COVID-19 & Worldwide Happiness Data Analysis
+
 📘 Overview
 
 This project analyzes and compares COVID-19 data (daily confirmed cases, deaths, recoveries by country and date) with the Worldwide Happiness dataset (happiness scores and socioeconomic indicators such as GDP, social support, and health).
@@ -97,7 +98,7 @@ Language: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
-Environment: Jupyter Notebook / Google Colab
+Environment: Google Colab
 
 🔍 Key Findings
 
